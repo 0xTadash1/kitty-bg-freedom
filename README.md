@@ -1,17 +1,17 @@
+<img align="right" src="./thumbnail.png" width="40%" />
+
 # kitty-bg-freedom
 
-<div style="display: flex">
-  <p style="margin: auto">
-    Here images were retouched by me for use as the window-logo/background in Kitty terminal.
-    <b>The original was not painted by me.</b>
-  </p>
-  <img src="./thumbnail.png" style="max-width: 50%">
-</div>
+Here images were retouched by me for use as the window-logo/background in Kitty terminal.
+**The original was not painted by me.**
 
 ## Original
 
 [Freedom Gundam Minimalist Wallpaper](https://www.deviantart.com/cleru087/art/Freedom-Gundam-Minimalist-Wallpaper-435212593)\
 by [CLeRu087](https://www.deviantart.com/cleru087)
+
+<!-- Cancell text wraparound by `<img align="right" ...>` -->
+<br clear="all" />
 
 ## Usage Example
 
